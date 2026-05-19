@@ -9,7 +9,7 @@ Portfolio of Nazrin Aliyeva
 
 ### 1. Capacitor
 
-**Student name:**
+**Student name:** Nazrin Aliyeva, Dilara Rzazada, Fazil Isgandar
 
 **Lecture link:** [Capacitor_task (Nazrin, Dilara, Fazil)](https://www.slideshare.net/slideshow/capacitor_task-nazrin-dilara-fazil/286799624)
 
@@ -19,7 +19,7 @@ Portfolio of Nazrin Aliyeva
 
 ### 2. Technical Laboratory Report: Amplifier
 
-**Student name:**
+**Student name:** Nazrin Aliyeva
 
 **Lecture link:** [Technical Laboratory Report: Amplifier - Nazrin Aliyeva](https://www.slideshare.net/slideshow/technical-laboratory-report-amplifier-nazrin-aliyeva/287038547)
 
@@ -29,7 +29,7 @@ Portfolio of Nazrin Aliyeva
 
 ### 3. Physics Guide: Field-Effect Transistors (FETs)
 
-**Student name:**
+**Student name:** Nazrin Aliyeva, Ulkar Aliyeva, Nazila Aliyeva, Ali Shukurov
 
 **Lecture link:** [Physics Guide: Field-Effect Transistors (FETs) - Nazrin Aliyeva, Ulkar Aliyeva, Nazila Aliyeva, Ali Shukurov](https://www.slideshare.net/slideshow/pyysics-guide-field-effect-transistors-fets-nazrin-aliyeva-ulkar-aliyeva-nazila-aliyeva-ali-shukurov/287153252)
 
@@ -39,7 +39,7 @@ Portfolio of Nazrin Aliyeva
 
 ### 4. Key Challenges and Development Barriers in Azerbaijan's Electronics Industry
 
-**Student name:**
+**Student name:** Nazrin Aliyeva, Fazil Isgandar
 
 **Lecture link:** [Key Challenges and Development Barriers in Azerbaijan's Electronics Industry - Nazrin Aliyeva, Fazil Isgandar](https://www.slideshare.net/slideshow/key-challenges-and-development-barriers-in-azerbaijan-s-electronics-industry-by-nazrin-aliyeva-fazil-isgandar/287388256)
 
@@ -49,7 +49,7 @@ Portfolio of Nazrin Aliyeva
 
 ### 5. Physics Guide: Voltage Dividers
 
-**Student name:**
+**Student name:** Nazrin Aliyeva
 
 **Lecture link:** [Physics Guide: Voltage Dividers - Nazrin Aliyeva](https://www.slideshare.net/slideshow/physics-guide-voltage-dividers-nazrin-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287505593)
 
@@ -59,7 +59,7 @@ Portfolio of Nazrin Aliyeva
 
 ### 6. Determining Threshold Power to Prevent Light Bulb Burnout in Electrical Circuits
 
-**Student name:**
+**Student name:** Nazrin Aliyeva, Dilara Rzazada, Fazil Isgandar
 
 **Lecture link:** [Physics Guide: Determining Threshold Power to Prevent Light Bulb Burnout in Electrical Circuits - Nazrin Aliyeva, Dilara Rzazada, Fazil Isgandar](https://www.slideshare.net/slideshow/physics-guide-nazrin-aliyeva-dilara-rzazada-fazil-isgandar-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku-determining-threshold-power-to-prevent-light-bulb-burnout-in-electrical-circuits/287505751)
 
@@ -69,7 +69,7 @@ Portfolio of Nazrin Aliyeva
 
 ### 7. Basic DC Circuits
 
-**Student name:**
+**Student name:** Nazrin Aliyeva, Dilara Rzazada,  Nazila Aliyeva, Ulkar Aliyeva, Fazil Isgandar
 
 **Lecture link:** [Basic DC Circuits](https://www.notion.so/321bd0fa66d980c0862fe754a10fa3b2?source=copy_link)
 
@@ -79,7 +79,7 @@ Portfolio of Nazrin Aliyeva
 
 ### 8. Transistor Task
 
-**Student name:**
+**Student name:** Dilara Rzazada, Nazrin Aliyev
 
 **Lecture link:** [Transistor_task - Dilara Rzazada, Nazrin Aliyeva](https://www.slideshare.net/slideshow/transistor_task-dilara-rzazada-nazrin-aliyeva/286914699)
 
@@ -99,7 +99,7 @@ Portfolio of Nazrin Aliyeva
 
 ### 10. Voltage Divider and LDR Technical Laboratory Reports
 
-**Student name:**
+**Student name:** Nazrin Aliyeva, Dilara Rzazada
 
 **Lecture links:**
 
