@@ -47,11 +47,11 @@ Portfolio of Nazrin Aliyeva
 
 ---
 
-### 5. Physics Guide: Voltage Dividers
+### 5. Physics Guide: Voltage Regulator
 
 **Student name:** Nazrin Aliyeva
 
-**Lecture link:** [Physics Guide: Voltage Dividers - Nazrin Aliyeva](https://www.slideshare.net/slideshow/physics-guide-voltage-dividers-nazrin-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287505593)
+**Lecture link:** [Physics Guide: Voltage Regulator - Nazrin Aliyeva](https://www.slideshare.net/slideshow/physics-guide-voltage-dividers-nazrin-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287505593)
 
 **verified by:** physics teacher azerbaijan telman askeraliyev (fizika muellimi) - **contact:** [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev)
 
