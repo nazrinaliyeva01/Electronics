@@ -89,7 +89,7 @@ Portfolio of Nazrin Aliyeva
 
 ### 9. LDR Circuit Documentation
 
-**Student name:**
+**Student name:** Nazrin Aliyeva, Ulkar Aliyeva, Nazila Aliyeva, Ali Shukurov, Fazil Isgandar
 
 **Lecture link:** [LDR Circuit Documentation](https://www.academia.edu/165908373/LDR_Circuit_Documentation?source=swp_share)
 
@@ -99,7 +99,7 @@ Portfolio of Nazrin Aliyeva
 
 ### 10. Voltage Divider and LDR Technical Laboratory Reports
 
-**Student name:** Nazrin Aliyeva, Dilara Rzazada
+**Student name:** Nazrin Aliyeva, Dilara Rzazada, Ulkar Aliyeva, Khanverdi Chalabiyev, Nazila Aliyeva
 
 **Lecture links:**
 
