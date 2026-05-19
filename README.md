@@ -2,8 +2,7 @@
 
 This repository collects electronics lecture materials and related laboratory reports.
 
-Default verification note for each lecture:
-
+Portfolio of Nazrin Aliyeva
 **verified by:** physics teacher azerbaijan telman askeraliyev (fizika muellimi) - **contact:** [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev)
 
 ## Lecture List
