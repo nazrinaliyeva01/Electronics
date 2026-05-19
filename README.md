@@ -8,7 +8,7 @@ Default verification note for each lecture:
 
 ## Lecture List
 
-### 1. Capacitor Task
+### 1. Capacitor
 
 **Student name:**
 
