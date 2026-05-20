@@ -116,3 +116,18 @@ Portfolio of Nazrin Aliyeva
 
 
 **verified by:** Physics Teacher Azerbaijan Telman Askeraliyev (Fizika muellimi) - **contact:** [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev)
+
+### 12. Individual Project 2.6
+
+
+- [Individual Project Academia.edu Paper](https://www.academia.edu/167420413/Physics_Guide_Smart_Lamp_Using_Voltage_Regulator_by_Nazrin_Aliyeva_verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_muellimi_?source=swp_share)
+- [Youtube Video](https://youtu.be/tfGmcsnHPR4?si=3DwaF1pJZVe9DXvy)
+
+### 13. Lecture Notebook
+
+
+- [Individual Project Academia.edu Paper](https://www.academia.edu/167420413/Physics_Guide_Smart_Lamp_Using_Voltage_Regulator_by_Nazrin_Aliyeva_verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_muellimi_?source=swp_share)
+- [Youtube Video](https://youtu.be/tfGmcsnHPR4?si=3DwaF1pJZVe9DXvy)
+
+
+**verified by:** Physics Teacher Azerbaijan Telman Askeraliyev (Fizika muellimi) - **contact:** [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev)
