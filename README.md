@@ -89,7 +89,7 @@ Portfolio of Nazrin Aliyeva
 
 **Student name:** Nazrin Aliyeva, Ulkar Aliyeva, Nazila Aliyeva, Ali Shukurov, Fazil Isgandar
 
-**Lecture link:** [LDR Circuit Documentation](https://www.academia.edu/165908373/LDR_Circuit_Documentation?source=swp_share)
+**Lecture link:** [LDR Circuit Documentation](https://www.academia.edu/165908373/LDR_Circuit_Documentation_By_Nazrin_Aliyeva_Dilara_Rzazada_Ulkar_Aliyeva_Nazila_Aliyeva_Ali_Shukurov_Fazil_Isgandar_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_M%C3%BC%C9%99llimi_Azerbaijan_Baku_?source=swp_share)
 
 **verified by:** Physics Teacher Azerbaijan Telman Askeraliyev (Fizika muellimi) - **contact:** [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev)
 
