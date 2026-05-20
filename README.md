@@ -1,7 +1,7 @@
 # Electronics
 
 This repository collects electronics lecture materials and related laboratory reports.
-
+IMPORTANT!!!! I HAVE ACADEMIA EDU LINKS BUT I HAVE AN ISSUE WHILE OPENING LINKS IN OTHER DEVICES. THAT'S WHY I HAD TO CHANGE THEM INTO SLIDE SHARE LINK
 Portfolio of Nazrin Aliyeva
 **verified by:** Physics Teacher Azerbaijan Telman Askeraliyev (Fizika muellimi) - **contact:** [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev)
 
