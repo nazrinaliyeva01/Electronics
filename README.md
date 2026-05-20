@@ -89,7 +89,7 @@ Portfolio of Nazrin Aliyeva
 
 **Student name:** Nazrin Aliyeva, Ulkar Aliyeva, Nazila Aliyeva, Ali Shukurov, Fazil Isgandar
 
-**Lecture link:** [LDR Circuit Documentation](https://www.academia.edu/165908373/LDR_Circuit_Documentation_By_Nazrin_Aliyeva_Dilara_Rzazada_Ulkar_Aliyeva_Nazila_Aliyeva_Ali_Shukurov_Fazil_Isgandar_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_M%C3%BC%C9%99llimi_Azerbaijan_Baku_?source=swp_share)
+**Lecture link:** [LDR Circuit Documentation](https://www.slideshare.net/slideshow/ldr-circuit-documentation-by-nazrin-aliyeva-dilara-rzazada-ulkar-aliyeva-nazila-aliyeva-ali-shukurov-fazil-isgandar-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-mu-llimi-azerbaijan-baku/287627815)
 
 **verified by:** Physics Teacher Azerbaijan Telman Askeraliyev (Fizika muellimi) - **contact:** [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev)
 
@@ -102,7 +102,7 @@ Portfolio of Nazrin Aliyeva
 **Lecture links:**
 
 - [Voltage Divider Technical Laboratory Report - Nazrin Aliyeva, Dilara Rzazade](https://www.academia.edu/166123264/Voltage_Divider_Technical_Laboratory_Report_Voltage_Divider_Nazrin_Aliyeva_Dilara_Rzazade_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_muellimi_Azerbaijan_?source=swp_share)
-- [Technical Laboratory Report: The Light Sensitive Switch, LDR Voltage Divider](https://www.academia.edu/166125872/Technical_Laboratory_Report_The_Light_Sensitive_Switch_LDR_Voltage_Divider?source=swp_share)
+- [Technical Laboratory Report: The Light Sensitive Switch, LDR Voltage Divider](https://www.slideshare.net/slideshow/technical-laboratory-report-the-light-sensitive-switch-ldr-voltage-divider/287627770)
 
 **verified by:** Physics Teacher Azerbaijan Telman Askeraliyev (Fizika muellimi) - **contact:** [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev)
 
@@ -120,7 +120,7 @@ Portfolio of Nazrin Aliyeva
 ### 12. Individual Project 2.6
 
 
-- [Individual Project Academia edu Paper](https://www.academia.edu/167420413/Physics_Guide_Smart_Lamp_Using_Voltage_Regulator_by_Nazrin_Aliyeva_verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_muellimi_?source=swp_share)
+- [Individual Project Academia edu Paper](https://www.slideshare.net/slideshow/physics-guide-smart-lamp-using-voltage-regulator-by-nazrin-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/287627681)
 - [Youtube Video](https://youtu.be/tfGmcsnHPR4?si=3DwaF1pJZVe9DXvy)
 -  Notebook: https://drive.google.com/file/d/18IBJPJLMkZKazWMI2a6XeN1JOgHO_sqp/view?usp=sharing
 
