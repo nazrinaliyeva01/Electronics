@@ -105,3 +105,14 @@ Portfolio of Nazrin Aliyeva
 - [Technical Laboratory Report: The Light Sensitive Switch, LDR Voltage Divider](https://www.academia.edu/166125872/Technical_Laboratory_Report_The_Light_Sensitive_Switch_LDR_Voltage_Divider?source=swp_share)
 
 **verified by:** Physics Teacher Azerbaijan Telman Askeraliyev (Fizika muellimi) - **contact:** [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev)
+
+### 11. Diode
+
+**Student name:** Nazrin Aliyeva, Dilara Rzazada
+
+**Lecture links:**
+
+- [Diode - Nazrin Aliyeva, Dilara Rzazade](https://www.slideshare.net/slideshow/understanding-diodes-function-connection-and-applications-in-circuits/287612934)
+
+
+**verified by:** Physics Teacher Azerbaijan Telman Askeraliyev (Fizika muellimi) - **contact:** [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev)
