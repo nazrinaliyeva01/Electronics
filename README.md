@@ -120,7 +120,7 @@ Portfolio of Nazrin Aliyeva
 ### 12. Individual Project 2.6
 
 
-- [Individual Project Academia edu Paper](https://www.slideshare.net/slideshow/physics-guide-smart-lamp-using-voltage-regulator-by-nazrin-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/287627681)
+- [Project Paper](https://www.slideshare.net/slideshow/physics-guide-smart-lamp-using-voltage-regulator-by-nazrin-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/287627681)
 - [Youtube Video](https://youtu.be/tfGmcsnHPR4?si=3DwaF1pJZVe9DXvy)
 -  Notebook: https://www.scribd.com/document/1041607427/Notebook-from-Electronics-Lectures
 
