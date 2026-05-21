@@ -128,7 +128,7 @@ Portfolio of Nazrin Aliyeva
 
 - [Individual Project Academia edu Paper](https://www.slideshare.net/slideshow/physics-guide-smart-lamp-using-voltage-regulator-by-nazrin-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/287627681)
 - [Youtube Video](https://youtu.be/tfGmcsnHPR4?si=3DwaF1pJZVe9DXvy)
--  Notebook: https://drive.google.com/file/d/18IBJPJLMkZKazWMI2a6XeN1JOgHO_sqp/view?usp=sharing
+-  Notebook: https://www.scribd.com/document/1041591267/Notes-From-Lectures
 
 
 **verified by:** Physics Teacher Azerbaijan Telman Askeraliyev (Fizika muellimi) - **contact:** [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev)
